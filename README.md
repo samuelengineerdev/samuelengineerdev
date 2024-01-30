@@ -19,7 +19,7 @@
 </p>
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ Estadisticas de GitHub 
 
 <p align="center">
   <a href="https://github.com/samuelengineerdev">
