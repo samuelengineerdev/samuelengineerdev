@@ -10,7 +10,7 @@
 - 💬 Ask me about **React, JavaScript, TypeScript, Node.js, NestJS**
 - 📫 Mi perfir de [LinkedIn](https://www.linkedin.com/in/samuel-jose-aquino-andujar-76a165223/)
 
-<h2>Tecnologias</h2>
+<h2>Tecnologias <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
@@ -18,6 +18,15 @@
   </a>
 </p>
 <br>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/samuelengineerdev">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=samuelengineerdev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samuelengineerdev&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
 <!--
 
