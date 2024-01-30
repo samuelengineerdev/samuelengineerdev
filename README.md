@@ -3,7 +3,7 @@
 
 <br/>
 
-# Acerca de mi 
+# Sobre mi 
 
 - 💻 Estoy trabajando actualmente en [NERDCOM](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Aorganization%3A968076&keywords=nerdcom&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=8bd0c334-3776-45b5-b4e4-1956328d1b4a&sid=Hdf&spellCorrectionEnabled=true)
 - 💎 Portafolio web [samuelengineerdev](https://samuelengineerdev.netlify.app/)
