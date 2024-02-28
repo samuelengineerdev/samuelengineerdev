@@ -1,5 +1,5 @@
 <!-- # <div align="center">Hola, soy [Samuel Aquino](https://sm-portfolio-main.netlify.app)👋</div> -->
-<img src="https://res.cloudinary.com/dkqnylg6o/image/upload/v1706585140/smbanner_rqkcbm.jpg" alt="Banner"/> 
+<img src="https://res.cloudinary.com/dkqnylg6o/image/upload/v1709133022/smbanner2_hcuowt.png" alt="Banner"/> 
 
 <br/>
 
