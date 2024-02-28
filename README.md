@@ -7,14 +7,14 @@
 
 - 💻 Estoy trabajando actualmente en [NERDCOM](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Aorganization%3A968076&keywords=nerdcom&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=8bd0c334-3776-45b5-b4e4-1956328d1b4a&sid=Hdf&spellCorrectionEnabled=true)
 - 💎 Portafolio web [samuelengineerdev](https://samuelengineerdev.netlify.app/)
-- 💬 Preguntame sobre **React, JavaScript, TypeScript, Node.js, NestJS**
+- 💬 Preguntame sobre **React, JavaScript, TypeScript, Node.js, Laravel**
 - 📫 Mi perfir de [LinkedIn](https://www.linkedin.com/in/samuel-jose-aquino-andujar-76a165223/)
 
 <h2>Tecnologias <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,js,ts,redux,nodejs,express,nestjs,mysql,mongodb,firebase,git,github,postman,vscode,bash&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,js,ts,redux,nodejs,express,laravel,mysql,mongodb,firebase,git,github,postman,vscode,bash&perline=12" />
   </a>
 </p>
 <br>
