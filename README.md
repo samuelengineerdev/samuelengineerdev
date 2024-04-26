@@ -5,7 +5,7 @@
 
 # Sobre mi 
 
-- 💻 Estoy trabajando actualmente en [NERDCOM](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Aorganization%3A968076&keywords=nerdcom&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=8bd0c334-3776-45b5-b4e4-1956328d1b4a&sid=Hdf&spellCorrectionEnabled=true)
+- 💻 Estoy participando actualmente en [No Country](https://www.nocountry.tech/)
 - 💎 Portafolio web [samuelengineer.dev](https://samuelengineer.dev)
 - 💬 Preguntame sobre **React, JavaScript, TypeScript, Node.js, Laravel**
 - 📫 Mi perfir de [LinkedIn](https://www.linkedin.com/in/samuel-jose-aquino-andujar-76a165223/)
