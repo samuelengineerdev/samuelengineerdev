@@ -5,7 +5,7 @@
 
 # Sobre mi 
 
-- 💻 Estoy participando actualmente en [No Country](https://www.nocountry.tech/)
+<!--# - 💻 Estoy participando actualmente en [No Country](https://www.nocountry.tech/) -->
 - 💎 Portafolio web [samuelengineer.dev](https://samuelengineer.dev)
 - 💬 Preguntame sobre **React, JavaScript, TypeScript, Node.js, Laravel**
 - 📫 Mi perfir de [LinkedIn](https://www.linkedin.com/in/samuel-jose-aquino-andujar-76a165223/)
